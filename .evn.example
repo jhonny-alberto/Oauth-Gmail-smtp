@@ -1,0 +1,8 @@
+GOOGLE_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxx
+OAUTH_CALLBACKURL=http://localhost:3000/auth/google/callback
+
+GMAILAPP_MAIL=xxxxxxxxxxxxxxxx@gmail.com
+GMAILAPP_PASS=xxxxxxxxxxxxxxxx
+
+PORT=3000
