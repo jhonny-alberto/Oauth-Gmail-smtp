@@ -29,5 +29,5 @@ npm run start
 ```
 
 ## 4. Project Code explanation
- - Strucutre overview 
+ - Structure overview 
  https://i.imgur.com/PMMsZ5Y.png
